@@ -4,7 +4,7 @@ body {
 
 
 #title {
-    background-color: #ff4c68;
+    background-color: #911912;
     color: #fff;
 }
 
@@ -60,7 +60,7 @@ p {
 /* Title Image  */
 .title-image {
     width: 60%;
-    transform: rotate(25deg);
+    transform: rotate(20deg);
 }
 
 /* Features Section */
@@ -75,7 +75,7 @@ p {
 }
 
 .icon {
-    color: #ef8172;
+    color: #911912;
     margin-bottom: 1rem;
 }
 
