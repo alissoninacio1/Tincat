@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: "Montserrat";
 }
@@ -17,6 +21,13 @@ h1 {
     font-size: 3.5rem;
     line-height: 1.5;
     font-weight: 900;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 2.5rem;
+    line-height: 1.5;
 }
 
 h3 {
@@ -61,6 +72,7 @@ p {
 .title-image {
     width: 60%;
     transform: rotate(20deg);
+    margin-left: 5%;
 }
 
 /* Features Section */
@@ -80,5 +92,72 @@ p {
 }
 
 .icon:hover {
-    color:  #ff4c68;
+    color:  #dd0021;
+}
+
+/* Testimonial section  */
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #911912;
+    color: #fff;
+}
+
+.testimonial-image {
+    width: 14%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+
+#press {
+    background-color: #911912;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+
+/* Media Queries  */
+
+@media only screen  and (max-width: 992px) {
+
+    .download-btn-box {
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 2.8rem;
+        margin-right: 5%;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    /* Image style  */
+    .cat-img {
+        padding: 10%;
+        margin-left: 12%;
+    }
+
+    .menu-responsive {
+        text-align: center;
+    }
+
+    .testimonial-image {
+        width: 20%;
+    }
+
+    
 }
