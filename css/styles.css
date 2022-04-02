@@ -13,7 +13,7 @@ body {
 }
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 
 h1 {
@@ -72,13 +72,15 @@ p {
 .title-image {
     width: 60%;
     transform: rotate(20deg);
-    margin-left: 5%;
+    position: relative;
+    left: 18%;
 }
 
 /* Features Section */
 
 #features {
     padding: 7% 15%;
+    background-color: #fff;
 }
 
 .feature-box {
@@ -127,6 +129,19 @@ p {
 }
 
 
+/*Pricing section*/
+#pricing {
+    padding: 5%;
+    text-align: center;
+}
+
+.pricing-color {
+    padding: 4% 2%;
+}
+
+.three-cards {
+    padding: 3% 3% ;
+}
 
 /* Media Queries  */
 
@@ -137,7 +152,7 @@ p {
     }
 
     h1 {
-        font-size: 2.8rem;
+        font-size: 2.4rem;
         margin-right: 5%;
     }
 
@@ -145,10 +160,15 @@ p {
         font-size: 1.5rem;
     }
 
+    .title-image {
+        width: 60%;
+        transform: none;
+    }
+
     /* Image style  */
     .cat-img {
         padding: 10%;
-        margin-left: 12%;
+        margin: auto;
     }
 
     .menu-responsive {
@@ -159,5 +179,14 @@ p {
         width: 20%;
     }
 
+    .div-media {
+        padding-top: 3%;
+    }
+
+    #press img {      /*	ex.: div p - Selects all <p> elements inside <div> elements*/
+        width: 40%;
+        padding: 3%;
+    }
     
+
 }
