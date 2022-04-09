@@ -1,6 +1,26 @@
+Todos estes sites sao muito úteis para o front-end  
+
 https://convertacolor.com/
 
 
 https://unsplash.com/
 
 https://bootsnipp.com/
+
+https://htmlcolorcodes.com/
+
+https://dribbble.com/
+
+https://docs.emmet.io/cheat-sheet/
+
+
+https://devicon.dev/
+
+https://www.svgbackgrounds.com/
+(baixar sempre o arquivo svg porque se renderiza melhor)
+
+
+https://undraw.co/
+
+
+   
