@@ -16,6 +16,8 @@
   including an image I have made using Figma -  https://www.figma.com/
 </p>
 
+<br>
+
 <p> 
   This is part of my learning, and I would like to register all the things that I'm doing. I hope I can improve my code quality and refactoring it in my next projects.
   You can see the result of this exercise in:  https://alissoninacio1.github.io/Tincat/
