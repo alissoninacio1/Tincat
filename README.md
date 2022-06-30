@@ -23,6 +23,12 @@
   You can see the result of this exercise in:  https://alissoninacio1.github.io/Tincat/
 </p>
 
+
+### Video: 
+
+[9e010b68-6fbd-4f73-b3c5-9535e20eca47.webm](https://user-images.githubusercontent.com/69402669/176667871-c4c73e1e-55c3-4055-b112-1bac71584c14.webm)
+
+
 ##
 ### Technologies used: 
 
